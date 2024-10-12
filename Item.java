@@ -5,7 +5,6 @@
  *This class is used for the items that are used by the player and found in the rooms of the game
  *They can be used, dropped and picked up using the various commands in the game
  *
- * @author Ricky Gordon  k23075676
  */
 public class Item
 {

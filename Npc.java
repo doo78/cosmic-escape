@@ -8,7 +8,6 @@
  *The corpse is moving around and when in the same room as the player, it is found as a dead body
  *The human and alien will initiate dialogue and then try to kill the player when in the same room
  * 
- * @author Ricky Gordon k23075676
  */
 public class Npc
 {

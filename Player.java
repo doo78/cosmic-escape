@@ -5,7 +5,6 @@ import java.util.ArrayList;
  *
  * It contains information about the player and controls how they interact with the game.
  * 
- * @author Ricky Gordon k23075676
  */
 public class Player
 {

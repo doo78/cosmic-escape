@@ -11,9 +11,6 @@ import java.util.Random;
  * A "Room" represents one location in the scenery of the game.  It is 
  * connected to other rooms via exits.  For each existing exit, the room 
  * stores a reference to the neighboring room.
- * 
- * @author  Ricky Gordon k23075676
- * @version 2016.02.29
  */
 
 public class Room 
