@@ -10,11 +10,15 @@ import java.util.Random;
  *  rooms, creates the parser and starts the game.  It also evaluates and
  *  executes the commands that the parser returns.
  * 
- * @author  Ricky Gordon k23075676
  */
 
 public class Game 
 {
+    public static void main(String[] args) {
+        Game game = new Game();
+        game.play();
+    }
+
     private Parser parser; 
     private Room currentRoom; //stores which room the player is in
     private Player player; //stores the object for player information and methods
@@ -957,3 +961,4 @@ public class Game
         
     }
 }
+
